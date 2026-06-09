@@ -6,7 +6,7 @@ there are **zero asset files** — the whole game is one `index.html`.
 
 ### ▶ Play
 
-**[boovines.github.io/backrooms](https://boovines.github.io/backrooms/)**
+**[justinhou.me/backrooms](https://justinhou.me/backrooms/)**
 
 Open in a normal browser tab for pointer-lock mouselook (click-drag also works).
 
